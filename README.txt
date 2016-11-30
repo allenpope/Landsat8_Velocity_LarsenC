@@ -2,7 +2,8 @@
 The scripts in this folder (using MATLAB 2016a, Python 2.7.10, Jupiter notebooks 4.1.0, Landsat-util 0.12.1, and GDAL framework package 1.11) are used to acquire Landsat imagery, manage files, (calculate ice velocity using imager cross-correlation,) reproject data, filter data, and produce velocity mosaics and velocity time series. The code here is tailored to studying the Larsen C Ice Shelf on the western Antarctic Peninsula.
 
 ***Citation***
-Pope, Allen (2016). Processing Landsat 8 Velocities for Larsen C. Zenodo. _doi________
+Pope, Allen (2016). allenpope/Landsat8_Velocity_LarsenC: Processing Landsat 8 Velocities for Larsen C [Data set]. Zenodo. http://doi.org/10.5281/zenodo.185651
+
 Available at: https://github.com/allenpope/Landsat8_Velocity_LarsenC
 
 ***Workflow Information***
